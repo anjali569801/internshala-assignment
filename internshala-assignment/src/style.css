@@ -1,0 +1,46 @@
+body{
+    width:1728px;
+    height: 895px;
+    background-color: #6F787C;
+}
+
+
+.custom-shadow ,button:hover{
+    box-shadow:20px 30px 15px  rgba(0, 0, 0, 0.459);
+}
+
+button{
+    width:195px;
+    height:49px;
+    padding:10px 24px;
+}
+
+
+.container{
+    background-color: #363C43;
+    box-sizing: border-box;
+    height:316px;
+    width:720px;
+    
+}
+
+.navbar{
+    display: flex;
+    width:614px;
+    height: 62px;
+
+    align-items: center;
+}
+
+
+
+.bottomNavbar .AddImage{
+    background: #6F787C;
+}
+
+.bottomNavbar{
+    display: flex;
+    width:614px;
+    height: 62px;
+    align-items: center;
+}
